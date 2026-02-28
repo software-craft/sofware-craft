@@ -201,7 +201,5 @@ I am currently developing the following projects, which will be uploaded progres
 
 ---
 
-### **LinkedIn** → Leo Iglesias: Blockchain Developer | Web3 | QA Engineer
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
